@@ -1,8 +1,7 @@
 {
   "channel_type": "wx",
   "model": "qwen-turbo",
-  "dashscope_api_key": "sk-9e3bce9c6fe44da3ac538d0c56d34614
-",
+  "dashscope_api_key": "sk-9e3bce9c6fe44da3ac538d0c56d34614",
 
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
